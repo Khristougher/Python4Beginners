@@ -4,10 +4,11 @@
 Welcome to the Python Debugging Puzzles repository! This is a unique learning resource aimed at Python enthusiasts who wish to sharpen their coding skills by diving headfirst into the world of debugging and error resolution.
 
 #About This Repository
-This repository is a curated collection of Python puzzles, each intentionally laced with common errors that Python developers encounter. These range from syntax mistakes to logical errors and incorrect use of functions. The goal is to provide a hands-on approach to understanding Python's error messages (tracebacks) and to develop the skills necessary to resolve them.
+
+- This repository is a curated collection of Python puzzles, each intentionally laced with common errors that Python developers encounter. These range from syntax mistakes to logical errors and incorrect use of functions. The goal is to provide a hands-on approach to understanding Python's error messages (tracebacks) and to develop the skills necessary to resolve them.
 
 #Who is this for?
-Beginners who have just started learning Python and want to understand common pitfalls.
+-   Beginners who have just started learning Python and want to understand common pitfalls.
 Intermediate learners who wish to improve their debugging skills.
 Educators looking for practical materials to teach Python programming and problem-solving.
 Features
